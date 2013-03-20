@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties version="1.0">
+<comment>Icelandic (IS) Localization File</comment>
+<entry key="key.extra">Auka</entry>
+<entry key="key.release">Sleppa</entry>
+<entry key="key.toggle">Skipta</entry>
+<entry key="key.charge">Hleðsla</entry>
+<entry key="item.shardMinium.name">Brot af Minium</entry>
+<entry key="item.stoneInert.name">Inert Steinn</entry>
+<entry key="item.stoneMinium.name">Minium Steinn</entry>
+<entry key="item.stonePhilosophers.name">Spámanssteinn</entry>
+<entry key="item.dustAlchemicalAsh.name">Aska</entry>
+<entry key="item.dustAlchemicalMinium.name">Minium Ryk</entry>
+<entry key="item.dustAlchemicalVerdant.name">Verdant Ryk</entry>
+<entry key="item.dustAlchemicalAzure.name">Azure Ryk</entry>
+<entry key="item.dustAlchemicalAmaranthine.name">Amaranthine Ryk</entry>
+<entry key="item.dustAlchemicalIridescent.name">Iridescent Ryk</entry>
+<entry key="item.alchemicalBag.name">Alkemískur poki</entry>
+<entry key="tile.redWaterStill.name">Rauðvatn (Kjurt)</entry>
+<entry key="tile.redWaterFlowing.name">Rauðvatn (Flæðandi)</entry>
+<entry key="tile.calcinator.name">Calcinator</entry>
+<entry key="tile.aludel.name">Aludel</entry>
+<entry key="tile.alchemicalChest.name">Alkemísk Kista</entry>
+<entry key="container.calcinator">Calcinator</entry>
+<entry key="container.aludel">Aludel</entry>
+<entry key="container.alchemicalChest">Alkemísk kista</entry>
+<entry key="container.alchemicalBag">Alkemískur poki</entry>
+<entry key="itemGroup.EE3">Equivalent Exchange 3</entry>
+<entry key="version.init_log_message">Initializing remote version check against remote version authority, located at</entry>
+<entry key="version.uninitialized">Remote version check failed to initialize properly</entry>
+<entry key="version.current">Currently using the most up to date version (@REMOTE_MOD_VERSION@) of Equivalent Exchange 3 for @MINECRAFT_VERSION@</entry>
+<entry key="version.outdated">A new @MOD_NAME@ version exists (@REMOTE_MOD_VERSION@) for @MINECRAFT_VERSION@. Get it here: @MOD_UPDATE_LOCATION@</entry>
+<entry key="version.general_error">Error while connecting to remote version authority file; trying again</entry>
+<entry key="version.final_error">Version check stopping after three unsuccessful connection attempts</entry>
+<entry key="version.mc_version_not_found">Unable to find a version of @MOD_NAME@ for @MINECRAFT_VERSION@ in the remote version authority</entry>
+<entry key="command.ee3.overlay.turned_on">Target transmutation overlay turned on</entry>
+<entry key="command.ee3.overlay.turned_off">Target transmutation overlay turned off</entry>
+<entry key="command.ee3.overlay.position.top_left">Target transmutation overlay position set to top left</entry>
+<entry key="command.ee3.overlay.position.top_right">Target transmutation overlay position set to top right</entry>
+<entry key="command.ee3.overlay.position.bottom_left">Target transmutation overlay position set to bottom left</entry>
+<entry key="command.ee3.overlay.position.bottom_right">Target transmutation overlay position set to bottom right</entry>
+<entry key="command.ee3.overlay.opacity.usage.additional_text">(where ### is a decimal value between 0.0 and 1.0) </entry>
+<entry key="command.ee3.overlay.opacity.updated">Target transmutation overlay opacity updated successfully</entry>
+<entry key="command.ee3.overlay.scale.usage.additional_text">(where ### is a decimal value greater than 0.0) </entry>
+<entry key="command.ee3.overlay.scale.updated">Target transmutation overlay scale updated successfully</entry>
+<entry key="command.ee3.particles.turned_on">Equivalent Exchange 3 particles turned on</entry>
+<entry key="command.ee3.particles.turned_off">Equivalent Exchange 3 particles turned off</entry>
+<entry key="command.ee3.sounds.set_to_all">Playing Equivalent Exchange 3 sounds from all players</entry>
+<entry key="command.ee3.sounds.set_to_self">Playing Equivalent Exchange 3 sounds from self only</entry>
+<entry key="command.ee3.sounds.turned_off">Playing Equivalent Exchange 3 sounds disabled</entry>
+</properties>
